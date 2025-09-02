@@ -1,4 +1,7 @@
-## Calum's 's First CS193 Homework
+# Calum's 's First CS193 Homework
+
+- I'm interested in learning about the terminal
+- I hope I learn a lot about what cs classes expect of me at Purdue
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
